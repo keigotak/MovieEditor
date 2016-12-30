@@ -1,6 +1,6 @@
 #pragma once
 
-#define DEVELOPPER_INFO
+//#define DEVELOPPER_INFO
 //#define REC_IPAD
 #define REC_IPHONE
 
