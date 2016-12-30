@@ -6,10 +6,10 @@ MovieEditor consists on 2 project below.
  * myMovieGatcha is gatcha movie editor.
 
 ## Example
- * myMovie
-<img src="/images/myMovieExample.gif" width="100"> 
- * myMovieGatcha
-<img src="/images/myMovieGatchaExample.png" width="100">
+ * myMovie  
+<img src="/images/myMovieExample.gif" width="600"> 
+ * myMovieGatcha(annotate like below)  
+<img src="/images/myMovieGatchaExample.png" width="600">
 
 ## Requirments
  * [OpenFrameworks ver0.9.0](http://openframeworks.cc)
